@@ -1,0 +1,17 @@
+{
+        "clientName": "Michał",
+        "clientSurname": "Chudzik",
+        "screeningId": 1,
+        "tickets": [
+            {
+                "seatNumber":1,
+                "seatRow":1,  
+                "ticketType":"ADULT"
+            },
+            {
+                "seatNumber":2,
+                "seatRow":1,  
+                "ticketType":"ADULT"
+            }
+        ]
+}
